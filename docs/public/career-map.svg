@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="500" viewBox="0 0 580 500" fill="none">
+<rect x="30" y="22" width="520" height="450" rx="28" fill="#142e3b"/>
+<g stroke="#284754" stroke-width="1"><path d="M60 100h460M60 180h460M60 260h460M60 340h460M60 420h460M110 50v390M200 50v390M290 50v390M380 50v390M470 50v390"/></g>
+<circle cx="290" cy="250" r="148" stroke="#3b626e" stroke-dasharray="4 7"/><circle cx="290" cy="250" r="92" stroke="#3b626e"/>
+<path d="m165 145 125 105 131-116M290 250 169 369m121-119 135 119" stroke="#69d6bb" stroke-width="2"/>
+<rect x="216" y="206" width="148" height="88" rx="16" fill="#244655" stroke="#69d6bb"/>
+<text x="290" y="243" fill="#faf9f6" font-family="system-ui,sans-serif" font-size="23" font-weight="700" text-anchor="middle">YOUR</text><text x="290" y="273" fill="#69d6bb" font-family="system-ui,sans-serif" font-size="23" font-weight="700" text-anchor="middle">DIRECTION</text>
+<g font-family="system-ui,sans-serif" font-weight="600" font-size="13" letter-spacing="1.5">
+<rect x="87" y="113" width="146" height="54" rx="12" fill="#d4eee5"/><text x="160" y="146" fill="#164a3d" text-anchor="middle">BUILD</text>
+<rect x="347" y="108" width="146" height="54" rx="12" fill="#e1dff5"/><text x="420" y="141" fill="#464174" text-anchor="middle">DEPLOY</text>
+<rect x="91" y="342" width="158" height="54" rx="12" fill="#f2e7c9"/><text x="170" y="375" fill="#68541d" text-anchor="middle">EVALUATE</text>
+<rect x="351" y="342" width="146" height="54" rx="12" fill="#dce8f3"/><text x="424" y="375" fill="#304e6b" text-anchor="middle">STRATEGY</text>
+</g>
+<g fill="#69d6bb"><circle cx="290" cy="72" r="4"/><circle cx="110" cy="250" r="4"/><circle cx="470" cy="250" r="4"/><circle cx="290" cy="428" r="4"/></g>
+<text x="65" y="66" fill="#9ab9c3" font-family="monospace" font-size="10" letter-spacing="2">FIELD NOTES / AI CAREERS</text>
+<text x="65" y="447" fill="#9ab9c3" font-family="monospace" font-size="10" letter-spacing="2">EXPLORE · COMPARE · BUILD</text>
+</svg>
