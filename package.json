@@ -4,7 +4,9 @@
   "private": true,
   "type": "module",
   "description": "A research guide to emerging AI careers, skills, and portfolio projects.",
-  "engines": { "node": ">=22 <25" },
+  "engines": {
+    "node": ">=22 <25"
+  },
   "scripts": {
     "docs:dev": "vitepress dev docs --host 0.0.0.0",
     "docs:build": "vitepress build docs",
@@ -13,5 +15,8 @@
   },
   "devDependencies": {
     "vitepress": "1.6.4"
+  },
+  "overrides": {
+    "vite": "6.4.5"
   }
 }
