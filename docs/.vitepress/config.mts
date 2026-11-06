@@ -18,6 +18,7 @@ export default defineConfig({
     logo: '/favicon.svg',
     siteTitle: 'AI Career Atlas',
     nav: [
+      { text: 'Internships & entry-level jobs', link: '/guide/remote-jobs' },
       { text: 'Explore roles', link: '/roles/', activeMatch: '/roles/' },
       { text: 'Skill roadmap', link: '/guide/skills-roadmap' },
       { text: 'Research guide', link: '/guide/getting-started' }
@@ -41,6 +42,7 @@ export default defineConfig({
         ]}
       ],
       '/guide/': [{ text: 'Career research toolkit', items: [
+        { text: 'U.S. remote job examples', link: '/guide/remote-jobs' },
         { text: 'Start your research', link: '/guide/getting-started' },
         { text: 'Skill roadmap', link: '/guide/skills-roadmap' },
         { text: 'Portfolio projects', link: '/guide/portfolio-projects' },
