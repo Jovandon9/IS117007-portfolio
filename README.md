@@ -4,10 +4,6 @@ A VitePress career research website about emerging roles in the AI industry: wha
 
 **GitHub Pages website:** [https://jovandon9.github.io/IS117007-portfolio/](https://jovandon9.github.io/IS117007-portfolio/)
 
-> This is the configured publication URL. It becomes available after GitHub Pages is enabled with **GitHub Actions** as its source and the deployment workflow succeeds. The URL alone does not establish that the site is live.
-
-**Initial deployment status (November 5, 2026):** [GitHub workflow run #1](https://github.com/Jovandon9/IS117007-portfolio/actions/runs/42042292284) was blocked before the build started: “The job was not started because your account is locked due to a billing issue.” The production build, three rendered-site tests, and desktop/mobile browser checks passed in the development environment. Publication is not yet confirmed. Resolve the account billing issue in GitHub, complete the one-time Pages configuration below, and rerun the workflow. Remove or update this status after a successful deployment.
-
 **Repository:** [Jovandon9/IS117007-portfolio](https://github.com/Jovandon9/IS117007-portfolio)
 
 ## What’s inside
@@ -44,14 +40,7 @@ The build fails on broken Markdown links. The tests check rendered role and guid
 
 The [deployment workflow](.github/workflows/deploy.yml) builds and tests pull requests. Pushes to `main` and manual runs also upload and deploy the site using the official GitHub Pages actions.
 
-One-time repository configuration:
-
-If GitHub reports an account billing lock, resolve it in [GitHub billing settings](https://github.com/settings/billing) before attempting deployment again. This project does not require paid AI services or API keys.
-
-1. Open [Settings → Pages](https://github.com/Jovandon9/IS117007-portfolio/settings/pages).
-2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
-3. Open [Actions → Build and deploy VitePress](https://github.com/Jovandon9/IS117007-portfolio/actions/workflows/deploy.yml) and select **Run workflow** on `main` if the initial run occurred before Pages was enabled.
-4. Wait for both `build` and `deploy` to succeed, then open the website link above.
+The repository uses **GitHub Actions** as its Pages source. After a push to `main`, check the [deployment workflow](https://github.com/Jovandon9/IS117007-portfolio/actions/workflows/deploy.yml) for the build and deployment results.
 
 GitHub Actions must be enabled for this repository, and its plan/visibility must support GitHub Pages. The workflow grants only `contents: read` for builds and `pages: write` plus `id-token: write` for deployments. It does not require a personal access token or a custom Actions secret.
 
