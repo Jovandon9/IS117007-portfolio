@@ -48,8 +48,14 @@ Publish a small evaluation dataset using public or synthetic data, with its orig
 
 An [AI engineer](/roles/ai-engineer) builds the system being tested. A [research engineer](/roles/research-engineer) may develop new methods and experiments. An evaluation engineer makes measurement dependable enough to inform decisions, with substantial overlap in practice.
 
+## NJIT learning connections
+
+See the [verified NJIT next steps](/guide/getting-started#njit-next-steps) for an ML course and prerequisites, supervised research, computing clubs and career advising. These are independent learning suggestions; confirm course fit and availability with NJIT.
+
 ## Further reading
 
 - [OpenAI evaluation guide](https://platform.openai.com/docs/guides/evals) — application evaluation concepts and workflow.
 - [Hugging Face Evaluate documentation](https://huggingface.co/docs/evaluate/index) — tools and concepts for model evaluation.
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) — measurement as part of risk management.
+
+

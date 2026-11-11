@@ -48,8 +48,14 @@ Choose a paper whose experiment is feasible on your resources. Publish a short r
 
 An [ML engineer](/roles/ml-engineer) commonly prioritizes operating a dependable production system. A research engineer prioritizes making experiments trustworthy and advancing understanding, though many teams need both. Research scientist roles may put greater weight on originating research directions and publication; titles alone do not establish that division.
 
+## NJIT learning connections
+
+See the [verified NJIT next steps](/guide/getting-started#njit-next-steps) for an ML course and prerequisites, supervised research, computing clubs and career advising. These are independent learning suggestions; confirm course fit and availability with NJIT.
+
 ## Further reading
 
 - [PyTorch tutorials](https://pytorch.org/tutorials/) — implementing and understanding model workflows.
 - [Hugging Face LLM course](https://huggingface.co/learn/llm-course/chapter1/1) — language model foundations and tooling.
 - [Papers with Code on GitHub](https://github.com/paperswithcode) — public research tooling and resources; assess individual repositories and licenses before use.
+
+

@@ -11,7 +11,7 @@
     "docs:dev": "vitepress dev docs --host 0.0.0.0",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs --host 0.0.0.0",
-    "test": "node --test scripts/site.test.mjs"
+    "test": "node --test scripts/*.test.mjs"
   },
   "devDependencies": {
     "vitepress": "1.6.4"
@@ -20,3 +20,4 @@
     "vite": "6.4.5"
   }
 }
+

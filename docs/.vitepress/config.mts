@@ -42,11 +42,12 @@ export default defineConfig({
         ]}
       ],
       '/guide/': [{ text: 'Career research toolkit', items: [
-        { text: 'U.S. remote job examples', link: '/guide/remote-jobs' },
+        { text: 'Internships & entry-level jobs', link: '/guide/remote-jobs' },
         { text: 'Start your research', link: '/guide/getting-started' },
         { text: 'Skill roadmap', link: '/guide/skills-roadmap' },
         { text: 'Portfolio projects', link: '/guide/portfolio-projects' },
-        { text: 'Sources & methodology', link: '/guide/sources' }
+        { text: 'Sources & methodology', link: '/guide/sources' },
+        { text: 'Issue changes & verification', link: '/guide/issue-changes' }
       ]}]
     },
     socialLinks: [{ icon: 'github', link: 'https://github.com/Jovandon9/IS117007-portfolio' }],
@@ -62,3 +63,4 @@ export default defineConfig({
     }
   }
 })
+

@@ -11,6 +11,10 @@ This atlas compares eight role families. Some titles are emerging; others are es
 
 ## Compare the work
 
+Filter by skills, then select two or three roles for a focused comparison. The complete directory remains available when you clear filters.
+
+<RoleExplorer />
+
 | Role | Main focus | Typical deliverable | Good portfolio evidence |
 | --- | --- | --- | --- |
 | [AI engineer](/roles/ai-engineer) | Build useful applications with AI models | A reliable AI feature or service | An application with evaluations, monitoring, and a clear failure policy |
@@ -41,3 +45,4 @@ For any real opening, record the seniority, required background, location, custo
 ::: tip How to use these profiles
 Each profile includes an **illustrative job brief** written for this project. It is not a live advertisement, a statement that an employer is hiring, or a promise about entry requirements. Linked official resources provide background on methods and skills; they are not evidence of labor-market demand.
 :::
+
