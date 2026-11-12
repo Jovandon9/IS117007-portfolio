@@ -4,7 +4,15 @@ description: Primary resources and a repeatable worksheet for researching changi
 
 # Sources and research method
 
-This site combines role explanations with practical learning guidance. The sources below support concepts, skills, and research methods. They do not establish how many jobs exist, what every employer requires, or what you will earn. No live vacancies or salary survey are maintained here.
+This site combines role explanations with practical learning guidance. The sources below support concepts, skills, and research methods. They do not establish how many jobs exist, what every employer requires, or what you will earn. No continuously maintained job board or salary survey is provided.
+
+## Job-example maintenance policy
+
+The [student job examples](/guide/remote-jobs) form a dated research sample. Each record displays its own last recorded check date and status. **Checked** means the original description and application route were observed on that date; it does not guarantee availability later. **Not reverified** means the recorded example has not been reopened for the latest update and must not be treated as a confirmed opening. A closed posting should be labeled historical when closure is observed, rather than silently described as current.
+
+The original employer is the authority for current availability, location restrictions, qualifications and deadlines. State compatibility does not establish personal eligibility. Unknown location rules are labeled unknown.
+
+[Report a closed or changed posting](https://github.com/Jovandon9/IS117007-portfolio/issues/new) with the title, original URL, date and observed change. Keep private career reflections and eligibility circumstances out of issues. Reports are reviewed manually; there is no promised refresh interval.
 
 ## Primary resources to consult
 
@@ -44,3 +52,4 @@ An observation might be: “Four of the six postings I reviewed asked for Python
 For compensation research, record currency, location, level, base salary versus total compensation, and the source date. Compare like with like. This site intentionally avoids a single salary number for each title because those conditions differ substantially.
 
 Revisit your worksheet when applying. Use the [getting-started guide](/guide/getting-started) to turn the evidence into your next learning or portfolio decision.
+

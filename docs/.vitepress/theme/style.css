@@ -110,6 +110,34 @@
 .vp-doc h2 { letter-spacing: -.5px; }
 .vp-doc table { font-size: 14px; }
 
+/* Shared, keyboard-accessible tools inside the existing atlas theme. */
+.atlas-tool, .comparison-panel { margin: 24px 0; padding: 20px; border: 1px solid var(--vp-c-divider); border-radius: 12px; background: var(--vp-c-bg-soft); }
+.atlas-tool label, .role-search label { display: block; font-size: 14px; font-weight: 600; }
+.role-search { flex-wrap: wrap; }
+.role-search label { flex-basis: 100%; }
+.atlas-tool select { display: block; width: 100%; max-width: 100%; margin: 8px 0 18px; padding: 10px; background: var(--vp-c-bg); border: 1px solid var(--vp-c-divider); border-radius: 6px; white-space: normal; }
+.atlas-tool button, .comparison-panel button { padding: 8px 12px; border: 1px solid var(--vp-c-divider); border-radius: 6px; background: var(--vp-c-bg); margin: 6px 8px 6px 0; }
+.atlas-tool button:disabled, .comparison-panel button:disabled { opacity: .5; }
+.check-line, .compare-choice { display: flex !important; align-items: baseline; gap: 8px; margin: 12px 0; line-height: 1.6; }
+.check-line input, .compare-choice input { flex-shrink: 0; appearance: auto; width: 17px; height: 17px; accent-color: var(--vp-c-brand-1); }
+.atlas-tool fieldset { border: 1px solid var(--vp-c-divider); padding: 12px; margin: 16px 0; }
+.job-record, .roadmap-stage { margin: 24px 0; border-top: 1px solid var(--vp-c-divider); padding-top: 12px; }
+.job-summary { white-space: pre-line; }
+.record-badge { display: inline-block; border: 1px solid var(--vp-c-brand-1); border-radius: 5px; padding: 3px 8px; }
+.location-status { font-weight: 600; }
+.role-card-wrap { min-width: 0; display: flex; flex-direction: column; }
+.role-card-wrap .role-card { flex: 1; }
+.compare-choice { font-size: 13px; padding: 0 12px; }
+.comparison-panel h3 { margin-top: 0; }
+.comparison-grid { display: grid; grid-template-columns: repeat(var(--comparison-columns), minmax(0,1fr)); gap: 16px; }
+.comparison-grid article { min-width: 0; border: 1px solid var(--vp-c-divider); padding: 14px; border-radius: 8px; }
+.comparison-grid h4 { margin: 0 0 16px; }
+.comparison-grid dt { font-weight: 700; margin-top: 12px; }
+.comparison-grid dd { margin: 4px 0 12px; font-size: 14px; line-height: 1.7; }
+.atlas-tool :focus-visible, .role-explorer :focus-visible { outline: 3px solid var(--vp-c-brand-1); outline-offset: 3px; }
+.selection-actions { display: flex; flex-wrap: wrap; }
+@media (max-width: 639px) { .comparison-grid { grid-template-columns: 1fr; } .atlas-tool, .comparison-panel { padding: 14px; } }
+
 @media (min-width: 960px) {
   .VPHero { padding-top: 76px !important; padding-bottom: 64px !important; }
   .VPHero .image { margin: 0 !important; }
@@ -141,3 +169,4 @@
   .role-card, .role-filters button { transition: none; }
   .role-card:hover { transform: none; }
 }
+

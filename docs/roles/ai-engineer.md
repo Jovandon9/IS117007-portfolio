@@ -46,8 +46,14 @@ Build a question-answering tool over public documents. Publish the data source, 
 
 An [ML engineer](/roles/ml-engineer) often spends more time on training pipelines, model deployment, and statistical performance. A [forward-deployed engineer](/roles/forward-deployed-engineer) works more directly within a customer's process and environment. These responsibilities can overlap in smaller teams.
 
+## NJIT learning connections
+
+See the [verified NJIT next steps](/guide/getting-started#njit-next-steps) for an ML course and prerequisites, supervised research, computing clubs and career advising. These are independent learning suggestions; confirm course fit and availability with NJIT.
+
 ## Further reading
 
 - [Microsoft Azure AI services documentation](https://learn.microsoft.com/en-us/azure/ai-services/) — examples of AI services and application integration.
 - [Hugging Face LLM course](https://huggingface.co/learn/llm-course/chapter1/1) — model and language-processing foundations.
 - [OpenAI evaluation guide](https://platform.openai.com/docs/guides/evals) — evaluation concepts for model-powered applications.
+
+

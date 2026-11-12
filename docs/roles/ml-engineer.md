@@ -48,8 +48,14 @@ Use a public dataset with a clear license. Include a baseline, a justified split
 
 An [AI engineer](/roles/ai-engineer) often concentrates on applications built around existing models. A [research engineer](/roles/research-engineer) may prioritize experiments and new methods. ML engineering more often emphasizes reliable training and prediction systems, with significant overlap depending on the team.
 
+## NJIT learning connections
+
+See the [verified NJIT next steps](/guide/getting-started#njit-next-steps) for an ML course and prerequisites, supervised research, computing clubs and career advising. These are independent learning suggestions; confirm course fit and availability with NJIT.
+
 ## Further reading
 
 - [Google Cloud Professional Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer) — one vendor's view of the skills involved; certification is not a universal job requirement.
 - [scikit-learn user guide](https://scikit-learn.org/stable/user_guide.html) — practical modeling and evaluation foundations.
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) — foundational concepts and exercises.
+
+

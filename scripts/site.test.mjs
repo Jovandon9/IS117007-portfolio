@@ -8,7 +8,7 @@ const root = path.resolve(fileURLToPath(new URL('../docs/.vitepress/dist/', impo
 const base = '/IS117007-portfolio/'
 const origin = 'https://jovandon9.github.io'
 const roleSlugs = ['ai-engineer', 'forward-deployed-engineer', 'ml-engineer', 'solutions-architect', 'product-manager', 'evaluation-engineer', 'research-engineer', 'governance-specialist']
-const guideSlugs = ['getting-started', 'skills-roadmap', 'portfolio-projects', 'sources']
+const guideSlugs = ['getting-started', 'skills-roadmap', 'portfolio-projects', 'sources', 'remote-jobs']
 const requiredPages = ['index.html', 'roles/index.html', ...roleSlugs.map(slug => `roles/${slug}.html`), ...guideSlugs.map(slug => `guide/${slug}.html`)]
 
 async function exists(file) {
@@ -65,8 +65,9 @@ test('the role explorer and client-side search are included in the production bu
   const home = await readFile(path.join(root, 'index.html'), 'utf8')
   assert.match(home, /aria-label="Filter roles by type of work"/)
   assert.match(home, /id="role-query"/)
-  assert.equal((home.match(/class="[^"]*\brole-card\b[^"]*"/g) || []).length, 8)
+  assert.equal([...home.matchAll(/<a\b[^>]*class="([^"]*)"/g)].filter(match => match[1].split(/\s+/).includes('role-card')).length, 8)
   for (const slug of roleSlugs) assert.ok(home.includes(`${base}roles/${slug}`), `Explorer missing ${slug}`)
   const assets = await readdir(path.join(root, 'assets'), { recursive: true })
   assert.ok(assets.some(name => /local.?search/i.test(name)), 'Local site search was not built')
 })
+
