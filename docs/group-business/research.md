@@ -99,6 +99,8 @@ Chase's agreement, group-specific research/decision contribution, cross-review a
 
 ## Review status, AI assistance and checkpoint note
 
+[Group review and decision thread #12](https://github.com/Jovandon9/IS117007-portfolio/issues/12) records the request for team confirmation, source tracing and contribution evidence. No reply has been received during preparation.
+
 **Observed:** three comparator pages were readable; current repository documents were inspected; the structured 22-record Atlas sample counted 7 internships, 7 entry-level, 4 mid-level and 4 senior records. Those counts describe its sample only. One Atlas Anthropic source redirected during the portfolio retry; historical source dates do not establish current availability.
 
 **Not observed:** customer demand, student comprehension, willingness to pay, live business operation, group approval, finished workflow, or real peer retry of this group proposal.
