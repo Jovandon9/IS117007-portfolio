@@ -21,7 +21,8 @@ export default defineConfig({
       { text: 'Internships & entry-level jobs', link: '/guide/remote-jobs' },
       { text: 'Explore roles', link: '/roles/', activeMatch: '/roles/' },
       { text: 'Skill roadmap', link: '/guide/skills-roadmap' },
-      { text: 'Research guide', link: '/guide/getting-started' }
+      { text: 'Research guide', link: '/guide/getting-started' },
+      { text: 'Group research', link: '/group-business/research' }
     ],
     sidebar: {
       '/roles/': [
