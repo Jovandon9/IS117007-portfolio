@@ -95,7 +95,11 @@ An application link establishes what was visible on the check date; it does not 
 
 **Observed during preparation:** The two original employer pages were readable and showed application links. Their requirements and deadline wording were checked against the comparison above. The existing published Career Atlas exposes role profiles, employer links, and research guides.
 
-**Pending:** The baseline and all acceptance checks above. Peer review is deferred at the project owner's request; no review request was sent, no issues were filed or closed, and no reviewer retry has occurred.
+**Review resumed November 17, 2026:** [Review request #11](https://github.com/Jovandon9/IS117007-portfolio/issues/11) asks Chase (@chaseac-cpu) to trace the Quora evidence into the proposed decision and check, and retry the website changes from merged PR #10. His response is pending. Website issues #1–#9 are currently closed, but no independent reviewer acceptance is documented; closure is not a substitute for retry evidence.
+
+**Outgoing portfolio review:** Codex-assisted retries were posted on Chase's [citation issue #2](https://github.com/chaseac-cpu/ai-career-atlas/issues/2), [skill-matrix issue #3](https://github.com/chaseac-cpu/ai-career-atlas/issues/3), [worksheet issue #4](https://github.com/chaseac-cpu/ai-career-atlas/issues/4), and [selection-log issue #5](https://github.com/chaseac-cpu/ai-career-atlas/issues/5). The sampled skills trace, worksheet and provenance/count checks passed. Citation #2 remains partial: Anthropic posting 5461873008 redirected to its general board on November 17. The other two checked Anthropic titles displayed identifiable detail pages. These are assistant-assisted observations, not a claim of unaided student testing.
+
+**Pending:** The proposed baseline and its execution checks, Chase's source-to-decision review, and independent narrow-screen verification. Personal reflection and eligibility details remain private.
 
 When review resumes, ask a partner to open Quora's responsibilities, identify the evaluation requirement, and trace it through the observation, proposed decision, story, and check. Record feedback → implement/investigate/defer/decline decision → linked documentation or code commit/PR → actual verification → reviewer retry. Leave unfinished work open with its next step. [Use the existing issue record](https://github.com/Jovandon9/IS117007-portfolio/issues).
 
