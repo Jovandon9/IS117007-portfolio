@@ -9,7 +9,7 @@
 - [Chase's source project](https://github.com/chaseac-cpu/ai-career-atlas) · [its research methodology](https://github.com/chaseac-cpu/ai-career-atlas/blob/main/docs/sources.md).
 - [Current host repository](https://github.com/Jovandon9/IS117007-portfolio) · [current host site](https://jovandon9.github.io/IS117007-portfolio/).
 - [This evolving group record](https://jovandon9.github.io/IS117007-portfolio/group-business/research).
-- Shared business repository designation: **pending team confirmation**. This record is hosted with Jovan's authorized project for review; neither individual career repository is silently reclassified as the team's approved shared repository.
+- Shared group research record: **Jovan confirmed on November 17, 2026 that it belongs in [Jovandon9/IS117007-portfolio](https://github.com/Jovandon9/IS117007-portfolio)** and that Chase's Atlas is the reference for the AI career-guidance concept. Continue updating this same record here. Chase's separate review and agreement are not implied.
 - Business implementation/deployed service: **not built**. The links above are research sources and documentation, not a booking or paid service.
 
 One proposed complete customer task for the next stage: select a target role and project brief, submit a project-review inquiry, see a receipt, and allow the business to retrieve the request. Storage, validation and request handling belong in Plan/Build. Research alone does not implement them.
@@ -90,8 +90,8 @@ Use cited evidence and labeled limits for credibility. No fabricated testimonial
 
 | Member | Evidence currently available | Proposed next work; not claimed complete |
 | --- | --- | --- |
-| Jovan Fernandez / Jovandon9 | Supplied the direction to use Chase's project. His GitHub account contains the four detailed outgoing portfolio feedback issues and November 17 Codex-assisted retries. This record is AI-drafted on his request. | Review/correct the business choice and source interpretations; design brief selection; implement one meaningful workflow part; test Chase's work. |
-| Chase / chaseac-cpu | Existing Atlas source project and issue responses documenting accepted changes. These pre-existing contributions provide source context; they are not automatically group-business work. | Confirm shared repository, full name and business direction; check the comparison/personas; design inquiry/receipt; implement another meaningful part; test Jovan's work. |
+| Jovan Fernandez / Jovandon9 | Confirmed that the shared research record lives in his repository and that Chase's Atlas supplies the reference for the business concept. His GitHub account contains the four detailed outgoing portfolio feedback issues and November 17 Codex-assisted retries. This record is AI-drafted on his request. | Review/correct the business choice and source interpretations; design brief selection; implement one meaningful workflow part; test Chase's work. |
+| Chase / chaseac-cpu | Existing Atlas source project and issue responses documenting accepted changes. These pre-existing contributions provide source context; they are not automatically group-business work. | Add full name and independently review the business direction; check the comparison/personas; design inquiry/receipt; implement another meaningful part; test Jovan's work. |
 
 Both members should do design, development and QA with comparable effort. Proposed split: Jovan owns brief selection/validation; Chase owns receipt/storage/retrieval; each reviews the other's design and tests success, invalid input and a narrow screen. Adjust after estimates; neither member is assigned only proofreading or slides.
 
@@ -107,6 +107,6 @@ Chase's agreement, group-specific research/decision contribution, cross-review a
 
 Codex inspected sources, drafted comparisons/personas/alternatives, calculated sample counts and prepared documentation. Personas and proposed decisions are AI-assisted hypotheses. Jovan and Chase remain responsible for accuracy, their own contribution statements and explaining the choices.
 
-**Short change/open-issue note:** Research proposal prepared from three inspected reference sites and Chase's Atlas. Proposed audience and position selected for team review. Shared repository designation, Chase's contribution/approval, actual peer feedback, any resulting change and reviewer retry remain open. This GitHub record does not submit coursework to Canvas.
+**Short change/open-issue note:** Research proposal prepared from three inspected reference sites and Chase's Atlas. Proposed audience and position selected for team review. The record location and Atlas reference are confirmed by Jovan. Chase's contribution/approval, actual peer feedback, any resulting change and reviewer retry remain open. This GitHub record does not submit coursework to Canvas.
 
 [Assignment](https://njit.instructure.com/courses/70711/assignments/769114) · [Group requirements](https://kaw393939.github.io/is117-demo-days/projects/group-project) · [Research process](https://kaw393939.github.io/is117-demo-days/process/research-to-features#research-review).
